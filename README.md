@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Jung23alt/Jung23alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <br clear="both">
 
 <h1 align="left">Hey 👋 I'm Nipun</h1>
@@ -50,6 +45,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nipun-parashar02/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/nipun_para70832" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.youtube.com/channel/UCFj9Fu8UafCaIU7ILPG2Pqg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jung23alt/Jung23alt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jung23alt/Jung23alt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jung23alt/Jung23alt/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
