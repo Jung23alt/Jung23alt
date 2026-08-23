@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning problem solving skill.<br>🎯 Goals: To become keen learner.<br>🎲 Fun fact: My nature is similar to as a water.</p>
+<p align="left">✨ Python Developer | Data & ML | Django | REST APIs | Docker | Kubernetes</p>
 
 ###
 
